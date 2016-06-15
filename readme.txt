@@ -1,0 +1,1 @@
+This site show MAX, BUS, Light Rail stops on the map by clicking on the map or typing an address. This uses TriMet Open Data and Open Street Map.
